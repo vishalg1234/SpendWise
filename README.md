@@ -24,7 +24,7 @@ individual's needs.
 
 # ScreenShots
 
-![Screenshot](ss1.1.png)
+![Screenshot](SS1.1.png)
 ![Screenshot](ss1.2.png)
 ![Screenshot](ss1.3.png)
 ![Screenshot](ss1.4.png)
